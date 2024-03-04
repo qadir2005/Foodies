@@ -359,7 +359,7 @@ footer div div a {
 
     /* order sectoin */
     .order-section .cart .right img {
-        min-width: 100px;
+        min-width: 150px;
     }
 
     .order-section .cart .left p {
@@ -375,9 +375,11 @@ footer div div a {
         display: flex;
         justify-content: center;
         gap: 5px;
+        text-align: center;
     }
 
     .last-footer p {
-        font-size: 11px;
+        font-size: 10px;
+        text-align: center;
     }
 }
